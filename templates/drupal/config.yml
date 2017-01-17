@@ -1,0 +1,7 @@
+name: Drupal 
+description: |
+  Blog tool, publishing platform and CMS
+version: v0.1
+category: Cms
+maintainer: Rui Figueiredo <rui.figueiredo@gmail.com>
+projectURL: www.ruifigueiredo.me
