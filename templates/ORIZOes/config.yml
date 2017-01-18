@@ -3,3 +3,6 @@ description: |
   Orizo Search, dynamically scalable elasticsearch cluster Multi-role deployment: master, client and data nodes
 version: 1.7.3-rancher1
 category: ORIZO
+maintainer: EdgeInnovation Inovacao
+license: Apache2
+projectURL: www.edgeinnovation.eu
