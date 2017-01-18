@@ -1,5 +1,5 @@
 name: ORIZOes 
 description: |
- Orizo Search dynamically scalable elasticsearch cluster Multi-role deployment: master, client and data nodes
+  Orizo Search, dynamically scalable elasticsearch cluster Multi-role deployment: master, client and data nodes
 version: 1.7.3-rancher1
 category: ORIZO
